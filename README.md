@@ -4,3 +4,8 @@ Distributed programming aims to have a job done by more than one computer. If th
 
 ![ServerClient](https://user-images.githubusercontent.com/59657939/136689792-302cdaab-3cf6-4beb-8425-e551924ca722.png)
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
