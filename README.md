@@ -1,3 +1,3 @@
 # Example.DistributedSystems
+[alt text](https://blogger.googleusercontent.com/img/a/AVvXsEgaPIVo8j5FvctxJeYM0yzB-RKhpc-fSBGLfR9WHg-k4tH8yYqktqkUttPEe7HZTD7fIiGcq7XiSTuWAqr-aUfFqWC8ET0TDuaJ2Ly8W8Kcyi78fDgmPKLE9dfeYxSHg7cUosU2407GnSgZ9_rAwGoY_iQFmtOmWV6zTdCsiSHNwsro-t1l_iE9X3oh)
 
-https://blogger.googleusercontent.com/img/a/AVvXsEgaPIVo8j5FvctxJeYM0yzB-RKhpc-fSBGLfR9WHg-k4tH8yYqktqkUttPEe7HZTD7fIiGcq7XiSTuWAqr-aUfFqWC8ET0TDuaJ2Ly8W8Kcyi78fDgmPKLE9dfeYxSHg7cUosU2407GnSgZ9_rAwGoY_iQFmtOmWV6zTdCsiSHNwsro-t1l_iE9X3oh
