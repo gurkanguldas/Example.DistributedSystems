@@ -12,5 +12,5 @@ Communication between clients takes place via variables of type InputStream and 
 
 ## MultiThread Package
 
-
+In order for the server to listen to more than one client, the system must run in parallel. This is why all sockets created inherit from threads. This is done in the ClientHandler.java file in the MultiThread package. At the same time, it is possible for clients to communicate through the server. This can be done with the ClientHandler type ArrayList in the ClientHandler.java file. It is possible to restrict clients from communicating with each other. The CommunicationConditions method provides this operation.
 
